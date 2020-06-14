@@ -1,7 +1,5 @@
-ID ,Name,Password,email
-1,aa,aaa,e1
-2,bb,bbb,e2
-3,cc,ccc,e3
-4,dd,ddd,e4
-5,ee,eee,e5
-6,ff,fff,e6
+ID ,Name,Password
+1,aa,aaa
+2,bb,bbb
+3,cc,ccc
+4,dd,ddd
